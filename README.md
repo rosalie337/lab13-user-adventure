@@ -111,3 +111,8 @@ Looking For | Points (10)
 [ ] Quest/Question Page uses query id to load correct data | 1
 [ ] Quest/Question Presents Question Information | 1
 [ ] Quest/Question Presents Question Choices | 1
+
+
+Questions:
+
+- Export default? Why or when should you use them?
