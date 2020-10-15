@@ -3,17 +3,16 @@
 
 Build a user adventure, quiz, or game that follows this pattern:
 
-1. User Info Page - starting information for user
-1. List Page - user presented with list of quests, tasks, or topics (generated from metadata)
-1. Quest or Task Page - user completes Quest, task, or topic (generated from metadata and URLSearchParams)
-1. Repeat thru steps #2 and #3 until end conditions
-1. Final results page on end condition(s)
+[ ] User Info Page - starting information for user
+[ ] List Page - user presented with list of quests, tasks, or topics (generated from metadata)
+[ ] Quest or Task Page - user completes Quest, task, or topic (generated from metadata and URLSearchParams)
+[ ] Repeat thru steps #2 and #3 until end conditions
+[ ] Final results page on end condition(s)
 
 
 ### Learning Objectives
 - Track the state: user choices for each question, which questions they've already answered
-- Track the state: and ANY OTHER STATE (hp, gold, etc) your project requires
-use state data for products to render radio buttons to get user input	Get the user's name and render it to the screen
+- Track the state: and ANY OTHER STATE (hp, gold, etc) your project requires user state data for products to render radio buttons to get user input	Get the user's name and render it to the screen
 - Render all the questions as links on a list page
 - When the user clicks on a link in the list, link them to the detail page for that question
 - Update state based on the user's response to the question (update how many questions they've answered, how the answer affected their score, etc)
@@ -113,6 +112,6 @@ Looking For | Points (10)
 [ ] Quest/Question Presents Question Choices | 1
 
 
-Questions:
+## Questions:
 
 - Export default? Why or when should you use them?
