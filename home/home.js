@@ -1,4 +1,4 @@
-// imports
+import makeUser from './make-user.js';
 
 const userSignUp = document.getElementById('user-sign-up'); // grabs form data from the home page
 
