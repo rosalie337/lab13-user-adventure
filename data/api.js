@@ -1,6 +1,6 @@
 // add user to local storage
 
-export function saveUser(user); {
+export function saveUser(user) {
     const json = JSON.stringify(user);
     localStorage.setItem('user', json);
 }
