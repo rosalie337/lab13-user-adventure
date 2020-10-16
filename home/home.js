@@ -1,5 +1,5 @@
 import makeUser from './make-user.js';
-import { saveUser } from '../data/api.js';
+import { saveUser } from '../data/api.js'
 
 const userSignUp = document.getElementById('user-sign-up'); // grabs form data from the home page
 
