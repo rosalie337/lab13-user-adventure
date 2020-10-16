@@ -105,7 +105,7 @@ Looking For | Points (10)
 [x] Hosted on GitHub with URL in About section | 1
 [ ] Consistent, good Metadata for App | 1
 [ ] User Info Page | 1
-[ ] Make and Save User Object | 2
+[x] Make and Save User Object | 2
 [ ] List of Quests/Questions with query param links | 2
 [ ] Quest/Question Page uses query id to load correct data | 1
 [ ] Quest/Question Presents Question Information | 1
